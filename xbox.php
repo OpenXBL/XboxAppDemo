@@ -15,7 +15,7 @@ if( isset($_GET['code']) )
     # Create the payload for this request
     $payload = array(
         "code" => $_GET['code'],
-        "app_key" => "0000000048197138"
+        "app_key" => "APP_CLIENT_ID"
     );
 
     ##
