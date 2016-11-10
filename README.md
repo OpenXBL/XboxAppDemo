@@ -6,7 +6,7 @@ Part of the [XBL.IO](https://xbl.io) feature set.
 [See it in action](https://regimbal.me/xblio/index.php)
 
 ## Documentation
-Reader-friendly Documentation can be found here. [Users Manual](https://xbl.io/xboxapp).
+Reader-friendly Documentation can be found here. [Users Manual](https://xbl.io/docs/xboxapp).
 
 ## Support
 The following support channels can be used for contact.
