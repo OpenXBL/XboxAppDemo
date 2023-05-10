@@ -1,15 +1,9 @@
 {
     "name": "openxbl/xbox-app-demo",
-    "description": "A quick example of OpenXBL.",
+    "description": "A quick example of social sign-in with OpenXBL.",
     "type": "project",
-    "repositories": [
-        {
-            "type" : "path",
-            "url" : "D:/repos/OpenXBL-PHP"
-        }
-    ],
     "require": {
-        "openxbl/openxbl": "dev-main"
+        "openxbl/openxbl": "^2.2.0"
     },
     "license": "MIT"
 }

@@ -1,15 +1,10 @@
 # Xbox App Demo
-More than an API. A robust authentication platform. This gives you a quick demonstration with how to initialize the "Xbox Live Sign in" functionality for your website.
+A quick demo how to initialize the "Xbox Live Sign in" functionality for your website or app.
 
 Part of the [XBL.IO](https://xbl.io) feature set.
 
-[See it in action](https://regimbal.me/xblio/index.php)
-
 ## Documentation
-Reader-friendly Documentation can be found here. [Users Manual](https://xbl.io/docs/xboxapp).
+Reader-friendly documentation can be found here. [Getting Started](https://xbl.io/getting-started).
 
-## Support
-The following support channels can be used for contact.
-
-- [Twitter](https://twitter.com/OpenXBL)
-- [Email](mailto:help@xbl.io)
+## Collaborate
+Visit our [discord channel](https://discord.gg/x6kk8M2) and say hello!
