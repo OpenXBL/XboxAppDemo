@@ -1,0 +1,15 @@
+{
+    "name": "openxbl/xbox-app-demo",
+    "description": "A quick example of OpenXBL.",
+    "type": "project",
+    "repositories": [
+        {
+            "type" : "path",
+            "url" : "D:/repos/OpenXBL-PHP"
+        }
+    ],
+    "require": {
+        "openxbl/openxbl": "dev-main"
+    },
+    "license": "MIT"
+}
